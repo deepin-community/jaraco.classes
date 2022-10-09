@@ -1,0 +1,11 @@
+jaraco.classes (3.2.1-2) unstable; urgency=medium
+
+  * Control: correct VCS URLs.
+
+ -- Jeroen Ploemen <jcfp@debian.org>  Tue, 06 Jul 2021 08:18:58 +0000
+
+jaraco.classes (3.2.1-1) experimental; urgency=medium
+
+  * Initial release. (Closes: #985733)
+
+ -- Jeroen Ploemen <jcfp@debian.org>  Fri, 26 Mar 2021 09:08:26 +0000
