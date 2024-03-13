@@ -1,0 +1,12 @@
+#!/bin/sh
+
+set -e -u
+
+DIR="/usr/lib/python3/dist-packages/jaraco/classes/"
+
+cd "$AUTOPKGTEST_TMP"
+
+for py in $(py3versions -s 2>/dev/null); do
+       echo "Running testsuite with $py:"
+       $py -m pytest --doctest-modules "$DIR"
+done

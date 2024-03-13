@@ -8,10 +8,11 @@ Build-Depends:
  debhelper-compat (= 13),
  dh-python,
  python3-all,
+ python3-more-itertools <!nocheck>,
  python3-pytest <!nocheck>,
  python3-setuptools,
  python3-setuptools-scm
-Standards-Version: 4.5.1
+Standards-Version: 4.6.2
 Vcs-Git: https://salsa.debian.org/python-team/packages/jaraco.classes.git
 Vcs-Browser: https://salsa.debian.org/python-team/packages/jaraco.classes
 Testsuite: autopkgtest-pkg-python
