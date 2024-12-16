@@ -1,3 +1,39 @@
+v3.4.0
+======
+
+Features
+--------
+
+- Better type hints for NonDataProperty. (#13)
+
+
+v3.3.1
+======
+
+No significant changes.
+
+
+v3.3.0
+======
+
+Features
+--------
+
+- Require Python 3.8 or later.
+
+
+v3.2.3
+======
+
+#7: Enabled badge with link to docs in the readme.
+
+v3.2.2
+======
+
+Refreshed package metadata.
+
+Enrolled with Tidelift.
+
 v3.2.1
 ======
 
