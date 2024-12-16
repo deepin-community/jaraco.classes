@@ -1,3 +1,14 @@
+jaraco.classes (3.4.0-1) unstable; urgency=medium
+
+  * New upstream version 3.4.0.
+  * Control: remove team from uploaders.
+  * Control: point VCS links to private namespace.
+  * Bump Standards-Version to 4.7.0 (from 4.6.2; no further changes).
+  * Control: add build-dep on pybuild-plugin-pyproject.
+  * Copyright: bump years.
+
+ -- Jeroen Ploemen <jcfp@debian.org>  Thu, 15 Aug 2024 03:28:17 +0000
+
 jaraco.classes (3.2.1-4) unstable; urgency=medium
 
   [ Debian Janitor ]
